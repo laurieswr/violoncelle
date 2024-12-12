@@ -1,0 +1,65 @@
+body {
+    background-color: whitesmoke;
+    color:black;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 45px;
+}
+
+h3 {
+    font-size: 35px;
+}
+
+ul {
+    font-size: 30px;
+}
+
+#expli {
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    padding: 20px;
+
+    img {
+        width: 600px;
+        height: 400px;
+    }
+}
+
+
+#partie {
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    padding: 20px;
+
+    img {
+        width: 500px;
+        height: 800px;
+        padding: 20px;
+    }
+}
+
+#taille {
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    padding: 20px;
+
+    img {
+        width: 800px;
+        height: 500px;
+        padding: 20px;
+    }
+}
+
+#clef {
+    font-size: 30px;
+}
